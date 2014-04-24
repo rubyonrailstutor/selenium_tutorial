@@ -1,0 +1,16 @@
+  PID TTY           TIME CMD
+  629 ttys000    0:00.31 -/bin/bash
+  820 ttys000    0:38.96 ruby bin/rails s
+  834 ttys001    0:00.23 -/bin/bash
+  993 ttys001    0:25.93 Vim
+ 2874 ttys002    0:00.20 -/bin/bash
+ 3033 ttys002    0:00.29 ruby bin/rails c
+ 3034 ttys002    0:00.57 spring server | codeunion.io | started 5 hours ago  
+ 5300 ttys003    0:00.41 -/bin/bash
+11868 ttys003    0:00.71 Vim jdfacebook.csv
+14577 ttys004    0:01.31 -/bin/bash
+17090 ttys004    0:03.67 Vim restaurant_spec.rb
+18995 ttys004    0:09.56 /usr/bin/python /usr/local/bin/flootty --create rspec
+19001 ttys005    0:00.63 /bin/bash --login
+17855 ttys006    0:00.28 -/bin/bash
+19970 ttys007    0:00.33 -/bin/bash
